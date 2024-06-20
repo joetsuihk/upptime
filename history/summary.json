@@ -13,7 +13,7 @@
     "time": 104,
     "timeDay": 74,
     "timeWeek": 111,
-    "timeMonth": 131,
+    "timeMonth": 122,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -40,18 +40,20 @@
     "url": "https://www.ohmyglow.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.ohmyglow.co.ico",
     "slug": "oh-my-glow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 575,
-    "timeWeek": 292,
-    "timeMonth": 270,
-    "timeYear": 290,
-    "dailyMinutesDown": {}
+    "time": 289,
+    "timeDay": 316,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 289,
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   },
   {
     "name": "Test Broken Site",
