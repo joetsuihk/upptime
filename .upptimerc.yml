@@ -7,8 +7,10 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: OhMyGlow
+  - name: OhMyGlow - Homepage
     url: https://www.ohmyglow.co
+  - name: OhMyGlow - Login page
+    url: https://www.ohmyglow.co/wp-login.php
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
