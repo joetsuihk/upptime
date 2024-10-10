@@ -40,9 +40,9 @@
     "url": "https://www.ohmyglow.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.ohmyglow.co.ico",
     "slug": "oh-my-glow-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 570,
     "timeMonth": 392,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "OhMyGlow - Login page",
@@ -70,7 +72,7 @@
     "timeMonth": 13,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-10-10": 19,
+      "2024-10-10": 514,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
